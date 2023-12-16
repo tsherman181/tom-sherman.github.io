@@ -186,6 +186,18 @@ a:hover {
   color: #8c8c8c;
 }
 
+.work .bullet-work-list li {
+  list-style: bullet;
+  font-size: 0.9375em;
+  color: #8c8c8c;
+}
+
+.work .image-right img {
+  width: 50%;
+  float: right;
+  height: 100px;
+  width: 100px;
+}
 
 .work .work-list li u {
   padding-bottom: 5px;
